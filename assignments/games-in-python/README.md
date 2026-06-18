@@ -1,4 +1,3 @@
-
 # 📘 Assignment: Hangman Game Challenge
 
 ## 🎯 Objective
@@ -10,7 +9,6 @@ Build the classic word-guessing game using Python strings, loops, and user input
 ### 🛠️ Game Logic
 
 #### Description
-
 Implement the core Hangman gameplay: choose a hidden word, accept guesses, track progress, and manage remaining attempts.
 
 #### Requirements
@@ -23,10 +21,10 @@ Completed program should:
 - End the game when the word is guessed or attempts are exhausted
 - Display a clear win or loss message
 
+
 ### 🛠️ Player Experience
 
 #### Description
-
 Provide clear prompts and feedback during gameplay so the player understands progress and status.
 
 #### Requirements
